@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MahalyB
-- 👀 I’m interested in Neuroscience + Data Science + Machine Learning
+- 👀 I’m interested in Software Engineering/Machine Learning
 - 🌱 I’m currently learning Python + SQL
 - 💞️ I’m looking to collaborate on new learning experiences
 - 📫 How to reach me on mahalybaptiste@gmail.com
