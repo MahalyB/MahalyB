@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python + SQL
 - 💞️ I’m looking to collaborate on new learning experiences
 - 📫 How to reach me on mebaptis@asu.edu
--
 
 <!---
 MahalyB/MahalyB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
