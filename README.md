@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MahalyB
 - 👀 I’m interested in Software Engineering/Machine Learning
-- 🌱 I’m currently learning Python + SQL
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on new learning experiences
 - 📫 How to reach me on mebaptis@asu.edu
 
